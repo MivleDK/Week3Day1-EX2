@@ -2,5 +2,6 @@
 
 #Week 3 day 1 EX-2
 
+Deployed on [website](https://micklarsen.com/W3D1_EX2/)
 
 [Guide on how to use startcode](https://docs.google.com/document/d/1K6s6Tt65bzB8bCSE_NUE8alJrLRNTKCwax3GEm4OjOE/edit?usp=sharing)
